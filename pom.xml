@@ -12,7 +12,7 @@
 
   <&lt;properties> 
   <&lt;project.build.sourceEncoding>UTF-8
-  <&lt;/project.build.sourceEncoding> &lt;maven.compiler.source>1.8&lt;/maven.compiler.source> &lt;maven.compiler.target>1.8&lt;/maven.compiler.target> 
+  <&lt;/project.build.sourceEncoding> &lt;maven.compiler.source>1.6&lt;/maven.compiler.source> &lt;maven.compiler.target>1.6&lt;/maven.compiler.target> 
   <&lt;/properties>
   
 <distributionManagement>
